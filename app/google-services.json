@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "864166874871",
+    "firebase_url": "https://clazz-8111e.firebaseio.com",
+    "project_id": "clazz-8111e",
+    "storage_bucket": "clazz-8111e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864166874871:android:83011036c83b02f8",
+        "android_client_info": {
+          "package_name": "com.education.louji.clazz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864166874871-23at3n5a4d2jrk1u8atntq9jtnfma4af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHff1_ASa2_0vCwhqIuB3ABtykn72RNtg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

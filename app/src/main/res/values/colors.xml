@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#282828</color>
+    <color name="colorPrimaryDark">#20cacc</color>
+    <color name="colorAccent">#293da1</color>
+    <color name="colorbottomnavigation">#282828</color>
+    <color name="colortoolbarprofile">#37b737</color>
+    <color name="white">#ffffff</color>
+    <color name="backgroundtint">#20cacc</color>
+    <color name="grey">#ececec</color>
+    <color name="orange">#ff8800</color>
+    <color name="uorange">#e96100</color>
+    <color name="bottomicon">#1e1e1d</color>
+    <color name="bottomtint">#e2e2d5</color>
+
+    <color name="bgde">#eaeaea</color>
+
+</resources>

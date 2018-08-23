@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Student"
+    tools:showIn="@layout/app_bar_student">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fcontainer"
+        android:layout_marginBottom="70sp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="70sp"
+                android:id="@+id/text1"/>
+    </FrameLayout>
+
+    <android.support.design.widget.BottomNavigationView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="4dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fcontainer"
+        app:menu="@menu/navigation"
+        android:id="@+id/btnav"
+        android:background="@drawable/bottomnavborder"
+        app:itemIconTint="@drawable/bottomitem">
+
+    </android.support.design.widget.BottomNavigationView>
+</android.support.constraint.ConstraintLayout>

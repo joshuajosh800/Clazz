@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Clazz</string>
+    <string name="login_email">Email</string>
+    <string name="loginemail">Email</string>
+    <string name="firepassword">Password</string>
+    <string name="loginbutton">Login</string>
+    <string name="textlogin">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="get_password">Get Password</string>
+
+
+    <string name="account_type">Account_type</string>
+    <string name="title_activity_prifile">PrifileActivity</string>
+    <string name="let_your_light_shine">Let Your Light Shine</string>
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="message">Message</string>
+    <string name="testnem">louji</string>
+    <string name="todo">TODO</string>
+    <string name="profileusername">Username</string>
+    <string name="profileprofession">Profession</string>
+    <string name="defstatus">Hello i am In class</string>
+    <string name="menulogout">logout</string>
+    <string name="user_type">user_Type</string>
+    <string name="notification">Notification</string>
+    <string name="title_activity_profileactivity">Profileactivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="material_is_good">Material is Good</string>
+    <string name="title_activity_drawer">Drawer</string>
+    <string name="title_activity_student">Student</string>
+    <string name="title_activity_professor">Professor</string>
+    <string name="reg_no">Reg_no</string>
+    <string name="hey_je_l_utilise_cette_application_developpee_par_lui">Hey je l\'utilise cette application developpee par lui</string>
+    <string name="Emp_no">emp_no</string>
+
+</resources>
